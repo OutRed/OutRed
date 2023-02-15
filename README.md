@@ -1,5 +1,20 @@
 ## 👋 Hi, I'm OutRed
 #### Front-end developer
+## Languages
+- HTML
+- CSS
+- Markdown
+- Learning JavaScript
+- Learning SwiftUI
+- Learning Swift
+
+## Projects
+I'm currently working on a website called [OutRed Games](https://outred.github.io), an unblocked game website. I fool around with other stuff too, but OutRed Games is my main project.
+
+## Contact
+You can reach me at:
+- outredgames@gmail.com
+- OutRed#0001 (Discord)
 
 <!--
 **OutRed/OutRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
