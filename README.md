@@ -1,4 +1,4 @@
-### 👋 Hi, I'm OutRed
+## 👋 Hi, I'm OutRed
 #### Front-end developer
 
 <!--
