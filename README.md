@@ -14,7 +14,7 @@ I'm currently working on a website called [OutRed Games](https://outred.github.i
 ## Contact
 You can reach me at:
 - outredgames@gmail.com
-- OutRed#0001 (Discord)
+- OutRed#1028 (Discord)
 
 <!--
 **OutRed/OutRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
