@@ -9,7 +9,7 @@
 - Learning Swift
 
 ## Projects
-I'm currently working on a website called [OutRed Games](https://outred.github.io), an unblocked game website. I fool around with other stuff too, but OutRed Games is my main project.
+I'm currently working on a website called [OutRed Games](https://outred.org), an unblocked game website. I fool around with other stuff too, but OutRed Games is my main project.
 
 ## Contact
 You can reach me at:
