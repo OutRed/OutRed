@@ -3,8 +3,8 @@
 ## Languages
 - HTML
 - CSS
+- JavaScript (kinda iffy on this one)
 - Markdown
-- Learning JavaScript
 - Learning SwiftUI
 - Learning Swift
 
