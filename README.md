@@ -17,6 +17,6 @@ This is another unblocked games website that my brother is paying me to make for
 ## Contact
 ### For personal/business:
 - outred@outred.dev
-- OutRed#1028 (Discord)
+- @outredgames (Discord)
 ### For support on [OutRed Games](https://outred.org)
 - support@outred.org, or create a ticket in the [Discord server](https://discord.gg/outred)
